@@ -1,0 +1,40 @@
+org/nevec/rjm/Ifactor.java
+ org.nevec.rjm.Ifactor
+org/nevec/rjm/BigComplex.java
+ org.nevec.rjm.BigComplex
+org/nevec/rjm/Wigner3jGUI.java
+ org.nevec.rjm.Wigner3jGUI
+org/nevec/rjm/Prime.java
+ org.nevec.rjm.Prime
+org/nevec/rjm/Rational.java
+ org.nevec.rjm.Rational
+org/nevec/rjm/BigDecimalMath.java
+ org.nevec.rjm.BigDecimalMath
+org/nevec/rjm/PartitionsP.java
+ org.nevec.rjm.PartitionsP
+org/nevec/rjm/RationalPoly.java
+ org.nevec.rjm.RationalPoly
+org/nevec/rjm/BigIntegerPoly.java
+ org.nevec.rjm.BigIntegerPoly
+org/nevec/rjm/Bernoulli.java
+ org.nevec.rjm.Bernoulli
+org/nevec/rjm/BigSurdVec.java
+ org.nevec.rjm.BigSurdVec
+org/nevec/rjm/Euler.java
+ org.nevec.rjm.Euler
+org/nevec/rjm/Permute.java
+ org.nevec.rjm.Permute
+org/nevec/rjm/BigSurd.java
+ org.nevec.rjm.BigSurd
+org/nevec/rjm/RatPoly.java
+ org.nevec.rjm.RatPoly
+org/nevec/rjm/Permutation.java
+ org.nevec.rjm.Permutation
+org/nevec/rjm/Partit.java
+ org.nevec.rjm.Partit
+org/nevec/rjm/BigIntegerMath.java
+ org.nevec.rjm.BigIntegerMath
+org/nevec/rjm/Factorial.java
+ org.nevec.rjm.Factorial
+org/nevec/rjm/Wigner3j.java
+ org.nevec.rjm.Wigner3j
