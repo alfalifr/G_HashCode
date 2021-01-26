@@ -1,3 +1,3 @@
 
-rootProject.name = "HashCode"
+rootProject.name = "G_HashCode"
 
